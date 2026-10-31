@@ -1,0 +1,17 @@
+{
+  "name": "स्वर्ण कला ज्वेलर्स – SKJ",
+  "short_name": "SKJ",
+  "description": "SKJ गोल्ड प्लान, कैलकुलेटर, बिल और GST लॉग",
+  "lang": "hi",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b0907",
+  "theme_color": "#0b0907",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
